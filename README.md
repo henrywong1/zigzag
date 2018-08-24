@@ -7,4 +7,4 @@ Technology used :
 
 ### Here is a Demo
 
-![](https://raw.githubusercontent.com/henrywong1/zigzag/master/ZigzagDemo.mp4)
+![](ZigzagDemo.gif)
